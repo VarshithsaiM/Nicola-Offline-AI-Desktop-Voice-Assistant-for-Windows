@@ -14,8 +14,8 @@ Key Features
 * 100% Offline Core: Wake-word detection, voice transcription (Whisper), and LLM reasoning (LM Studio) run entirely on your machine.
 * Zero-Latency Intent Registry: Everyday OS commands are intercepted by an ordered word-boundary regex registry and executed in milliseconds without waiting for the LLM.
 * LLM Intent Rescue (`[CMD: ...]`): If you phrase a system command casually and it slips past the regex matcher, the local LLM translates your intent into a canonical command tag and routes it back to the OS dispatcher automatically.
-* Sentence-by-Sentence SSE Streaming: LLM replies and long clipboard texts are streamed and spoken sentence-by-sentence via an asynchronous SAPI worker thread. Press **`Esc`** at any time to cut speech off mid-word.
-* Click-Through Stealth HUD: A borderless, high-contrast dual-line Tkinter overlay displays live `You:` and `Nicola:` transcripts at the bottom of your screen. Built with `WS_EX_TRANSPARENT` and `WS_EX_TOOLWINDOW` Win32 styles so mouse clicks pass straight through to your games/apps and it never clutters `Alt+Tab`.
+* Sentence-by-Sentence SSE Streaming: LLM replies, and long clipboard texts are streamed and spoken sentence-by-sentence via an asynchronous SAPI worker thread. Press **`Esc`** at any time to cut speech off mid-word.
+* Click-Through Stealth HUD: A borderless, high-contrast dual-line Tkinter overlay displays live `You:` and `Nicola:` transcripts at the bottom of your screen. Built with `WS_EX_TRANSPARENT` and `WS_EX_TOOLWINDOW` Win32 styles so mouse clicks pass straight through to your games/app,s and it never clutters `Alt+Tab`.
 * Adaptive RMS Noise Gate: Continuously calibrates to your room's ambient noise floor with a 400ms pre-roll buffer and fuzzy phonetic wake-word matching so the start of *"Nicola"* is never clipped.
 * Atomic Persistent Memory (RAG): Teach Nicola custom app aliases, personal facts, timestamped notes, and persistent timers/reminders that survive system restarts.
 
@@ -50,8 +50,10 @@ Installation & Setup
 
  1. Clone the Repository
     ```powershell
-git clone [https://github.com/VarshithsaiM/nicola-assistant.git](https://github.com/VarshiithsaiM/nicola-assistant.git)
+git clone [https://github.com/VarshithsaiM/nicola-assistant.git](https://github.com/VarshiithsaiM/Nicola-Offline-AI-Desktop-Voice-Assistant-for-Windows
+.git)
 cd nicola-assistant
 ```powershell
-git clone [https://github.com/YOUR_USERNAME/nicola-assistant.git](https://github.com/VarshithsaiM/nicola-assistant.git)
+git clone [https://github.com/VarshithsaiM/nicola-assistant.git](https://github.com/VarshithsaiM/Nicola-Offline-AI-Desktop-Voice-Assistant-for-Windows
+.git)
 cd nicola-assistant
