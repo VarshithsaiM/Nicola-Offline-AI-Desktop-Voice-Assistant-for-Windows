@@ -1,0 +1,14 @@
+# Nicola - Windows only
+numpy>=1.24.0
+psutil>=5.9.0
+pystray>=0.19.5
+pywin32>=306
+requests>=2.31.0
+sounddevice>=0.4.6
+Pillow>=10.0.0
+screen-brightness-control>=0.22.0
+openai-whisper>=20231117
+
+# Speech-to-text: install ONE of these. faster-whisper is recommended (faster, no PyTorch).
+faster-whisper
+# openai-whisper
