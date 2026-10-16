@@ -50,8 +50,8 @@ Installation & Setup
 
  1. Clone the Repository
     ```powershell
-git clone [https://github.com/YOUR_USERNAME/nicola-assistant.git](https://github.com/VarshiithsaiM/nicola-assistant.git)
+git clone [https://github.com/VarshithsaiM/nicola-assistant.git](https://github.com/VarshiithsaiM/nicola-assistant.git)
 cd nicola-assistant
 ```powershell
-git clone [https://github.com/YOUR_USERNAME/nicola-assistant.git](https://github.com/YOUR_USERNAME/nicola-assistant.git)
+git clone [https://github.com/YOUR_USERNAME/nicola-assistant.git](https://github.com/VarshithsaiM/nicola-assistant.git)
 cd nicola-assistant
