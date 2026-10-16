@@ -48,11 +48,7 @@ Prerequisites
 
 Installation & Setup
 
- 1. Clone the Repository
-    ```powershell
-git clone [https://github.com/VarshithsaiM/nicola-assistant.git](https://github.com/VarshiithsaiM/Nicola-Offline-AI-Desktop-Voice-Assistant-for-Windows
-.git)
-cd nicola-assistant
+Clone the Repository
 ```powershell
 git clone [https://github.com/VarshithsaiM/nicola-assistant.git](https://github.com/VarshithsaiM/Nicola-Offline-AI-Desktop-Voice-Assistant-for-Windows
 .git)
