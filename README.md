@@ -1,0 +1,1 @@
+# Nicola-Offline-AI-Desktop-Voice-Assistant-for-Windows
